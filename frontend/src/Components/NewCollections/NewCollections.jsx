@@ -1,6 +1,6 @@
 import React from 'react'
 import './NewCollections.css'
-import Item from '../Items/Item'
+import Item from '../Item/Item'
 import new_collection from '../Assets/new_collections'
 
 
